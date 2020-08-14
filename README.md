@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![standing_wave](https://upload.wikimedia.org/wikipedia/commons/8/86/Standing_Wave_Sum.gif)
+![game_of_life](https://upload.wikimedia.org/wikipedia/commons/0/07/Game_of_life_pulsar.gif)
 
 <!--
 **calvang/calvang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
