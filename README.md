@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![standing_wave](/images/standing_wave.gif)
+![standing_wave](https://upload.wikimedia.org/wikipedia/commons/8/86/Standing_Wave_Sum.gif)
+
 <!--
 **calvang/calvang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
