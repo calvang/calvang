@@ -7,7 +7,7 @@
 ![Language](https://img.shields.io/static/v1?label=&message=TypeScript&color=blue&logo=TypeScript)
 ![Language](https://img.shields.io/static/v1?label=&message=Python&color=blue&logo=Python&logoColor=white)
 ![Language](https://img.shields.io/static/v1?label=&message=SQL&color=blue&logo=SQLite)
-![Language](https://img.shields.io/static/v1?label=&message=MongoDB&color=brightgreen&logo=MongoDB&logoColor=white)
+![Language](https://img.shields.io/static/v1?label=&message=MongoDB&color=green&logo=MongoDB&logoColor=white)
 
 ### Hi there 👋
 
