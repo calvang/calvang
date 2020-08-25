@@ -1,6 +1,3 @@
-![GitHub followers](https://img.shields.io/github/followers/calvang?style=social) 
-![Website](https://img.shields.io/website?url=https%3A%2F%2Fcalvang.github.io)
-
 ![Language](https://img.shields.io/static/v1?label=&message=C&color=informational&logo=C&logoColor=white)
 ![Language](https://img.shields.io/static/v1?label=&message=C%2B%2B&color=blue&logo=C%2B%2B)
 ![Language](https://img.shields.io/static/v1?label=&message=Rust&color=black&logo=Rust)
