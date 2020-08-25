@@ -1,3 +1,7 @@
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fcalvang.github.io)
+![GitHub followers](https://img.shields.io/github/followers/calvang?style=social)
+
+
 ### Hi there 👋
 
 ![game_of_life](https://upload.wikimedia.org/wikipedia/commons/0/07/Game_of_life_pulsar.gif)
