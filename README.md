@@ -3,9 +3,9 @@
 ![Language](https://img.shields.io/static/v1?label=&message=Rust&color=black&logo=Rust)
 ![Language](https://img.shields.io/static/v1?label=&message=Java&color=orange&logo=Java)
 ![Language](https://img.shields.io/static/v1?label=&message=Swift&color=red&logo=Swift&logoColor=white)
+![Language](https://img.shields.io/static/v1?label=&message=Python&color=blue&logo=Python&logoColor=white)
 ![Language](https://img.shields.io/static/v1?label=&message=JavaScript&color=yellow&logo=JavaScript&logoColor=white)
 ![Language](https://img.shields.io/static/v1?label=&message=TypeScript&color=blue&logo=TypeScript)
-![Language](https://img.shields.io/static/v1?label=&message=Python&color=blue&logo=Python&logoColor=white)
 ![Language](https://img.shields.io/static/v1?label=&message=SQL&color=blue&logo=SQLite)
 ![Language](https://img.shields.io/static/v1?label=&message=MongoDB&color=green&logo=MongoDB&logoColor=white)
 
