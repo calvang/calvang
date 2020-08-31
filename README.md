@@ -13,6 +13,13 @@
 
 ![game_of_life](https://upload.wikimedia.org/wikipedia/commons/0/07/Game_of_life_pulsar.gif)
 
+Currently interested in and learning about:
+
+- Machine learning with Julia
+- Full stack integration with Webassembly and Rust
+- Building Quantum Circuits for Machine Learning
+- Web Bluetooth API for accessible data transmission
+
 <!--
 **calvang/calvang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
