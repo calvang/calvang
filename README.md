@@ -34,6 +34,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Website](https://img.shields.io/static/v1?label=Visit&message=Website&color=brightgreen&style=social&logo=Github&link=http://calvang.github.io/)
-![Blog](https://img.shields.io/static/v1?label=View&message=Blog&color=orange&style=social&logo=Markdown&logoColor=orange&link=http://calvang.github.io/#/Blog)
-![LinkedIn](https://img.shields.io/static/v1?label=Connect&message=LinkedIn&color=blue&style=social&logo=LinkedIn&logoColor=blue&link=https://www.linkedin.com/in/calvin-huang-9385ba165/)
+![Website](https://img.shields.io/static/v1?label=Visit&message=Website&color=brightgreen&style=social&logo=Github&link=http://calvang.github.io/&link=http://calvang.github.io/)
+![Blog](https://img.shields.io/static/v1?label=View&message=Blog&color=orange&style=social&logo=Markdown&logoColor=orange&link=http://calvang.github.io/#/Blog&link=http://calvang.github.io/#/Blog)
+![LinkedIn](https://img.shields.io/static/v1?label=Connect&message=LinkedIn&color=blue&style=social&logo=LinkedIn&logoColor=blue&link=https://www.linkedin.com/in/calvin-huang-9385ba165/&link=https://www.linkedin.com/in/calvin-huang-9385ba165/)
