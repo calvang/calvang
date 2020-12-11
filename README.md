@@ -16,6 +16,7 @@
 Currently interested in and learning about:
 
 - Machine learning with Julia and Python
+- CNN's for Audio Signal Processing
 - Full stack integration with Webassembly and Rust
 
 <!--
