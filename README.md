@@ -12,7 +12,8 @@
 
 ### Hi there 👋
 
-![game_of_life](https://upload.wikimedia.org/wikipedia/commons/0/07/Game_of_life_pulsar.gif)
+![maze](images/maze_banner.png)
+<!--![game_of_life](https://upload.wikimedia.org/wikipedia/commons/0/07/Game_of_life_pulsar.gif)-->
 
 Currently interested in and learning about:
 
