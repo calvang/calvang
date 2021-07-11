@@ -10,8 +10,6 @@
 ![Language](https://img.shields.io/static/v1?label=&message=SQL&color=blue&logo=SQLite)
 ![Language](https://img.shields.io/static/v1?label=&message=MongoDB&color=green&logo=MongoDB&logoColor=white)
 
-### Hi there 👋
-
 ![maze](images/maze_banner.png)
 <!--![game_of_life](https://upload.wikimedia.org/wikipedia/commons/0/07/Game_of_life_pulsar.gif)-->
 
