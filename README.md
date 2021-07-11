@@ -17,9 +17,9 @@
 
 Currently interested in and learning about:
 
-- Machine learning with Julia and Python
-- CNN's for Audio Signal Processing
-- Full stack integration with Webassembly and Rust
+- Reinforcement Learning
+- Natural Language Processing with Transformers
+- AWS Networking
 
 <!--
 **calvang/calvang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
