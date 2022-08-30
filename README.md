@@ -17,7 +17,7 @@ Currently interested in and learning about:
 
 - Reinforcement Learning
 - Natural Language Processing with Transformers
-- AWS Networking
+- Google Cloud
 
 <!--
 **calvang/calvang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
